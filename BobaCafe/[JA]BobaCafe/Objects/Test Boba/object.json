@@ -1,15 +1,33 @@
 {
     "Name": "Test Boba",
     "Description": "A testing tea, way to be!",
-    "Category": "ArtisanGoods",
-    "Edibility": 18,
+    "Category": "Cooking",
+    "Edibility": 22,
+    "EdibleIsDrink": true,
     "Price": 100,
     "IsColored": false,
-    "Recipe": null,
+    "Recipe": 
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+            {
+                "Object": "Boba Powder",
+                "Count": 1
+            },
+            {
+                "Object": "Sugar",
+                "Count": 1
+            }
+        ],
+        "CanPurchase": false,
+        "PurchaseFrom": "Pierre",
+        "PurchasePrice": 1,
+        "PurchaseRequirements": null
+    },
     "GiftTastes":
     {
-        "Love": ["Abigail", "Leah", "Sandy"],
-        "Like": ["Haley", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+        "Love": ["Abigail", "Caroline", "Sandy"],
+        "Like": ["Haley", "Alex", "Leah", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
     },
     "NameLocalization":
     {
@@ -40,6 +58,6 @@
         "zh": "一朵可食用的小花，蜜蜂，蝴蝶，和蜂鸟常常被其香味吸引！",
     },
     "ContextTags": [
-        "season_fall"
+        "season_spring"
     ]
 }
