@@ -19,7 +19,7 @@
                 "Count": 1
             }
         ],
-        "CanPurchase": false,
+        "CanPurchase": true,
         "PurchaseFrom": "Pierre",
         "PurchasePrice": 1,
         "PurchaseRequirements": null
