@@ -1,6 +1,6 @@
 {
-    "Name": "Tea Leaf",
-    "Description": "Leaf from a Tea Plant. Process into various teas",
+    "Name": "Tea Leaves",
+    "Description": "Leaves from a Tea Plant. Process into various teas",
     "Category": "Vegetable",
     "Edibility": 1,
     "EdibleIsDrink": false,
