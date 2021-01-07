@@ -1,0 +1,47 @@
+{
+    "Name": "Tea Plant",
+    "Product": "Tea Leaves",
+    "SeedName": "Tea Seeds",
+    "SeedDescription": "Plant in summer. Takes 12 days to mature.",
+    "Type": "Vegetable",
+    "Seasons": ["summer"],
+    "CropType": "Normal",
+    "Phases": [2, 2, 2, 2, 2],
+    "RegrowthPhase": 4,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 2,
+        "MaximumPerHarvest": 2,
+        "MaxIncreasePerFarmLevel": 1,
+        "ExtraChance": 7.0
+    },
+    "SeedPurchaseFrom": "Pierre",
+    "SeedPurchasePrice": 75,
+    "SeedNameLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "zh": ""
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "zh": ""
+    }
+}
