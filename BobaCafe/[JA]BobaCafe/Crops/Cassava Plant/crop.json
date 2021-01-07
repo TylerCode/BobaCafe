@@ -1,0 +1,47 @@
+{
+    "Name": "Cassava Plant",
+    "Product": "Cassava Root",
+    "SeedName": "Cassava Seeds",
+    "SeedDescription": "Plant in summer. Takes 10 days to produce large roots.",
+    "Type": "Vegetable",
+    "Seasons": ["summer"],
+    "CropType": "Normal",
+    "Phases": [2, 2, 2, 2, 2],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 2,
+        "MaximumPerHarvest": 2,
+        "MaxIncreasePerFarmLevel": 1,
+        "ExtraChance": 7.0
+    },
+    "SeedPurchaseFrom": "Pierre",
+    "SeedPurchasePrice": 60,
+    "SeedNameLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "zh": ""
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "zh": ""
+    }
+}
