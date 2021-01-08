@@ -1,0 +1,59 @@
+{
+    "Name": "Green Tea Boba",
+    "Description": "A delicious tea with tapioca pearls.",
+    "Category": "Cooking",
+    "Edibility": 30,
+    "EdibleIsDrink": true,
+    "Price": 140,
+    "IsColored": false,
+    "Recipe": 
+    {
+        "ResultCount": 2,
+        "Ingredients": [
+            {
+                "Object": "Green Tea",
+                "Count": 1
+            },
+            {
+                "Object": "Cassava Root",
+                "Count": 1
+            }
+        ],
+        "CanPurchase": false,
+        "PurchaseFrom": "Pierre",
+        "PurchasePrice": 1,
+        "PurchaseRequirements": null
+    },
+    "GiftTastes":
+    {
+        "Love": ["Abigail", "Caroline", "Sandy"],
+        "Like": ["Haley", "Alex", "Leah", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"]
+    },
+    "NameLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "zh": ""
+    },
+    "DescriptionLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "zh": ""
+    },
+    "ContextTags": [
+        "season_summer"
+    ]
+}
