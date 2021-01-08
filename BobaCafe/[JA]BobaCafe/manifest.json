@@ -1,8 +1,8 @@
 ﻿{
-  "Name": "BobaCafe",
+  "Name": "[JA]BobaCafe",
   "Author": "TylerCode + AGrrrlHasNoName",
   "Version": "0.0.1",
-  "Description": "A boba tea mod for StarDew Valley. Credit to AGrrrlHasNoName for Idea and Art.",
+  "Description": "JsonAssets for BobaCafe.",
   "UniqueID": "TylerCode.BobaCafe",
   "MinimumApiVersion": "3.0.0",
   "UpdateKeys": [
