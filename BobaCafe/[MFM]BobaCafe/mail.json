@@ -5,7 +5,7 @@
 		"Title": "Green Tea Boba",
 		"Text": "Dear @^I'm just testing sending a letter, think you should read it.",
 		"Recipe": "Green Tea Boba",
-        "WhichBG": 1, 
+        "WhichBG": 0, 
 		"TextColor": 0,
         "Repeatable": false,
 		"Date": "5 spring Y2", 

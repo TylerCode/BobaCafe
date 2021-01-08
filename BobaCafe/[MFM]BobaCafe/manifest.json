@@ -3,7 +3,7 @@
 	"Author": "TylerCode + AGrrrlHasNoName",
 	"Version": "0.0.1",
 	"Description": "Letters for BobaCafe.",
-	"UniqueID": "TylerCode.BobaCafe",
+	"UniqueID": "TylerCode.BobaCafeMail",
 	"MinimumApiVersion": "2.11.3",
 	"UpdateKeys": [
 		"GitHub:TylerCode/BobaCafe"
