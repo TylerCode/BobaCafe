@@ -1,10 +1,10 @@
 {
-    "Name": "Strawberry Boba Tea",
-    "Description": "Boba with a bit of milk and strawberry added for taste.",
+    "Name": "Cherry Boba Tea",
+    "Description": "Boba with a bit of milk and cherry added for taste.",
     "Category": "Cooking",
-    "Edibility": 38,
+    "Edibility": 80,
     "EdibleIsDrink": true,
-    "Price": 210,
+    "Price": 220,
     "IsColored": false,
     "Recipe": 
     {
@@ -23,7 +23,7 @@
                 "Count": 1
             },
             {
-                "Object": "Strawberry",
+                "Object": "Cherry",
                 "Count": 1
             }
         ],

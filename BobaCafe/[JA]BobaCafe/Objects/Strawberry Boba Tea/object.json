@@ -2,7 +2,7 @@
     "Name": "Strawberry Boba Tea",
     "Description": "Boba with a bit of milk and strawberry added for taste.",
     "Category": "Cooking",
-    "Edibility": 38,
+    "Edibility": 80,
     "EdibleIsDrink": true,
     "Price": 210,
     "IsColored": false,

@@ -2,7 +2,7 @@
     "Name": "Milk Boba Tea",
     "Description": "Boba with a bit of milk added for taste.",
     "Category": "Cooking",
-    "Edibility": 34,
+    "Edibility": 68,
     "EdibleIsDrink": true,
     "Price": 180,
     "IsColored": false,
