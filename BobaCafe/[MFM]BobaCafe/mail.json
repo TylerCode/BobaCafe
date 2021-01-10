@@ -2,9 +2,9 @@
 	{
 		"Id": "BobaCafe.greenbobatea",
 		"GroupId": "BobaCafe.Caroline", 
-		"Title": "Green Tea Boba",
+		"Title": "Green Boba Tea",
 		"Text": "Dear @^It's getting to the right time of year again and I wanted to share my recipe for Boba Tea. Enjoy. -Caroline",
-		"Recipe": "Green Tea Boba",
+		"Recipe": "Green Boba Tea",
         "WhichBG": 0, 
 		"TextColor": 0,
         "Repeatable": false,
@@ -16,7 +16,7 @@
 				"FriendshipLevel": 1
 			}
 		],
-		"RecipeNotKnown": ["Green Tea Boba"]
+		"RecipeNotKnown": ["Green Boba Tea"]
 	},
 	{
 		"Id": "BobaCafe.strawberryboba",
