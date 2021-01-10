@@ -27,10 +27,7 @@
                 "Count": 1
             }
         ],
-        "CanPurchase": true,
-        "PurchaseFrom": "Pierre",
-        "PurchasePrice": 500,
-        "PurchaseRequirements": null
+        "CanPurchase": false
     },
     "GiftTastes":
     {
