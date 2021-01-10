@@ -1,0 +1,60 @@
+{
+    "Name": "Iced Coffee Boba",
+    "Description": "Boba made from Iced Coffee instead of tea.",
+    "Category": "Cooking",
+    "Edibility": 75,
+    "EdibleIsDrink": true,
+    "Price": 190,
+    "IsColored": false,
+    "Recipe": 
+    {
+        "ResultCount": 2,
+        "Ingredients": [
+            {
+                "Object": "Coffee",
+                "Count": 1
+            },
+            {
+                "Object": "Cassava Root",
+                "Count": 1
+            },
+            {
+                "Object": "Milk",
+                "Count": 1
+            }
+        ],
+        "CanPurchase": false
+    },
+    "GiftTastes":
+    {
+        "Love": ["Abigail", "Caroline", "Sandy", "Sebastian", "Shane"],
+        "Like": ["Haley", "Alex", "Leah", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Vincent", "Willy", "Wizard"]
+    },
+    "NameLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "zh": ""
+    },
+    "DescriptionLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "zh": ""
+    },
+    "ContextTags": [
+        "season_summer"
+    ]
+}

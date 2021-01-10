@@ -74,5 +74,43 @@
 			}
 		],
 		"RecipeNotKnown": ["Melon Boba Tea"]
+	},
+	{
+		"Id": "BobaCafe.grapeboba",
+		"GroupId": "BobaCafe.Caroline", 
+		"Title": "Grape Boba Tea",
+		"Text": "Grape boba tea tastes amazing! -Caroline",
+		"Recipe": "Grape Boba Tea",
+        "WhichBG": 0, 
+		"TextColor": 0,
+        "Repeatable": false,
+		"Date": "24 spring Y2", 
+		"FriendshipConditions": 
+		[
+			{
+				"NpcName": "Caroline", 
+				"FriendshipLevel": 4
+			}
+		],
+		"RecipeNotKnown": ["Grape Boba Tea"]
+    },
+	{
+		"Id": "BobaCafe.coffeeboba",
+		"GroupId": "BobaCafe.Caroline", 
+		"Title": "Iced Coffee Boba",
+		"Text": "For a little more energy, try Iced Coffee boba if you need a bit more of a kick! -Caroline",
+		"Recipe": "Iced Coffee Boba",
+        "WhichBG": 0, 
+		"TextColor": 0,
+        "Repeatable": false,
+		"Date": "27 spring Y2", 
+		"FriendshipConditions": 
+		[
+			{
+				"NpcName": "Caroline", 
+				"FriendshipLevel": 4
+			}
+		],
+		"RecipeNotKnown": ["Iced Coffee Boba"]
     }
 ]
