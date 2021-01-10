@@ -1,10 +1,10 @@
 {
-    "Name": "Green Tea Boba",
-    "Description": "A delicious tea with tapioca pearls.",
+    "Name": "Green Tea Milk Boba",
+    "Description": "Boba with a bit of milk added for taste.",
     "Category": "Cooking",
-    "Edibility": 28,
+    "Edibility": 34,
     "EdibleIsDrink": true,
-    "Price": 140,
+    "Price": 180,
     "IsColored": false,
     "Recipe": 
     {
@@ -17,11 +17,15 @@
             {
                 "Object": "Cassava Root",
                 "Count": 1
+            },
+            {
+                "Object": "Milk",
+                "Count": 1
             }
         ],
-        "CanPurchase": false,
+        "CanPurchase": true,
         "PurchaseFrom": "Pierre",
-        "PurchasePrice": 1,
+        "PurchasePrice": 500,
         "PurchaseRequirements": null
     },
     "GiftTastes":
