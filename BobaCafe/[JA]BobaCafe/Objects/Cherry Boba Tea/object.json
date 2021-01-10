@@ -1,10 +1,10 @@
 {
-    "Name": "Green Tea Milk Boba",
-    "Description": "Boba with a bit of milk added for taste.",
+    "Name": "Strawberry Boba Tea",
+    "Description": "Boba with a bit of milk and strawberry added for taste.",
     "Category": "Cooking",
-    "Edibility": 34,
+    "Edibility": 38,
     "EdibleIsDrink": true,
-    "Price": 180,
+    "Price": 210,
     "IsColored": false,
     "Recipe": 
     {
@@ -20,6 +20,10 @@
             },
             {
                 "Object": "Milk",
+                "Count": 1
+            },
+            {
+                "Object": "Strawberry",
                 "Count": 1
             }
         ],

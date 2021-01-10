@@ -1,0 +1,63 @@
+{
+    "Name": "Milk Boba Tea",
+    "Description": "Boba with a bit of milk added for taste.",
+    "Category": "Cooking",
+    "Edibility": 34,
+    "EdibleIsDrink": true,
+    "Price": 180,
+    "IsColored": false,
+    "Recipe": 
+    {
+        "ResultCount": 2,
+        "Ingredients": [
+            {
+                "Object": "Green Tea",
+                "Count": 1
+            },
+            {
+                "Object": "Cassava Root",
+                "Count": 1
+            },
+            {
+                "Object": "Milk",
+                "Count": 1
+            }
+        ],
+        "CanPurchase": true,
+        "PurchaseFrom": "Pierre",
+        "PurchasePrice": 500,
+        "PurchaseRequirements": null
+    },
+    "GiftTastes":
+    {
+        "Love": ["Abigail", "Caroline", "Sandy", "Sebastian", "Shane"],
+        "Like": ["Haley", "Alex", "Leah", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Vincent", "Willy", "Wizard"]
+    },
+    "NameLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "zh": ""
+    },
+    "DescriptionLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "zh": ""
+    },
+    "ContextTags": [
+        "season_summer"
+    ]
+}
