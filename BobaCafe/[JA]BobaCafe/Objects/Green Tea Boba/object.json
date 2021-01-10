@@ -2,7 +2,7 @@
     "Name": "Green Tea Boba",
     "Description": "A delicious tea with tapioca pearls.",
     "Category": "Cooking",
-    "Edibility": 30,
+    "Edibility": 40,
     "EdibleIsDrink": true,
     "Price": 140,
     "IsColored": false,
