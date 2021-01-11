@@ -4,7 +4,7 @@
     "SeedName": "Cassava Seeds",
     "SeedDescription": "Plant in summer. Takes 10 days to produce large roots.",
     "Type": "Vegetable",
-    "Seasons": ["summer"],
+    "Seasons": ["spring", "summer"],
     "CropType": "Normal",
     "Phases": [2, 2, 2, 2, 2],
     "RegrowthPhase": -1,
