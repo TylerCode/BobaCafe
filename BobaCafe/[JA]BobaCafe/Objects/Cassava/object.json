@@ -1,5 +1,5 @@
 {
-    "Name": "Cassava Root",
+    "Name": "Cassava",
     "Description": "A starchy root. Edible after some processing.",
     "Category": "Vegetable",
     "Edibility": -20,
@@ -39,5 +39,6 @@
     },
     "ContextTags": [
         "season_summer"
-    ]
+    ],
+    "DisableWithMod": "ppja.fruitsandveggies"
 }
