@@ -1,12 +1,12 @@
 ﻿{
 	"Name": "[MFM]BobaCafe",
 	"Author": "TylerCode + AGrrrlHasNoName",
-	"Version": "0.4.2",
+	"Version": "0.4.3",
 	"Description": "Letters for BobaCafe.",
 	"UniqueID": "TylerCode.BobaCafeMail",
 	"MinimumApiVersion": "2.11.3",
 	"UpdateKeys": [
-		"GitHub:TylerCode/BobaCafe"
+		"Nexus:7599"
 	],
 	"ContentPackFor": {
 		"UniqueID": "DIGUS.MailFrameworkMod"

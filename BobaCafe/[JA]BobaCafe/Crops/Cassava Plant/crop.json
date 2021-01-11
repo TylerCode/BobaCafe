@@ -1,8 +1,8 @@
 {
     "Name": "Cassava Plant",
-    "Product": "Cassava Root",
+    "Product": "Cassava",
     "SeedName": "Cassava Seeds",
-    "SeedDescription": "Plant in summer. Takes 10 days to produce large roots.",
+    "SeedDescription": "Plant in spring or summer. Takes 10 days to produce large tubular roots.",
     "Type": "Vegetable",
     "Seasons": ["spring", "summer"],
     "CropType": "Normal",
@@ -43,5 +43,6 @@
         "pt": "",
         "ru": "",
         "zh": ""
-    }
+    },
+    "DisableWithMod": "ppja.fruitsandveggies"
 }

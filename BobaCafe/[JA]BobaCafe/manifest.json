@@ -1,12 +1,12 @@
 ﻿{
   "Name": "[JA]BobaCafe",
   "Author": "TylerCode + AGrrrlHasNoName",
-  "Version": "0.4.2",
+  "Version": "0.4.3",
   "Description": "JsonAssets for BobaCafe.",
   "UniqueID": "TylerCode.BobaCafeAssets",
   "MinimumApiVersion": "3.0.0",
   "UpdateKeys": [
-    "GitHub:TylerCode/BobaCafe"
+    "Nexus:7599"
   ],
   "ContentPackFor": {
     "UniqueID": "spacechase0.JsonAssets"
