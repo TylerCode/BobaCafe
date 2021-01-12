@@ -1,0 +1,55 @@
+{
+    "Name": "Tapioca",
+    "Description": "A starchy, grainy substance made from cassava. Useful in cooking dishes and beverages.",
+    "Category": "Cooking",
+    "Edibility": 10,
+    "EdibleIsDrink": false,
+    "Price": 80,
+    "IsColored": false,
+    "Recipe": 
+    {
+        "ResultCount": 2,
+        "Ingredients": [
+            {
+                "Object": "Green Tea",
+                "Count": 1
+            },
+            {
+                "Object": "Cassava",
+                "Count": 1
+            }
+        ],
+        "IsDefault": true
+    },
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Caroline", "Sandy", "Sebastian", "Shane", "Haley", "Alex", "Leah", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Vincent", "Willy", "Wizard"]
+    },
+    "NameLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "zh": ""
+    },
+    "DescriptionLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "zh": ""
+    },
+    "ContextTags": [
+        "season_summer"
+    ]
+}
