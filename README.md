@@ -27,4 +27,4 @@ This mod is compatible or integrates with these mods:
 - Artisan Valley (Tapioca)*
 - PPJA More Recipes (Boba Tea)*
 
-**Coming soon
+*Coming soon
