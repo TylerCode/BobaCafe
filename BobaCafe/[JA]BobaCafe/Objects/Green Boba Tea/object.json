@@ -17,6 +17,10 @@
             {
                 "Object": "Tapioca",
                 "Count": 1
+            },
+            {
+                "Object": "Milk",
+                "Count": 1
             }
         ],
         "CanPurchase": false
@@ -52,5 +56,6 @@
     },
     "ContextTags": [
         "season_summer"
-    ]
+    ],
+    "DisableWithMod": "paradigmnomad.morefood"
 }
