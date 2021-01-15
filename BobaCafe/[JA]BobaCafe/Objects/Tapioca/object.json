@@ -4,19 +4,19 @@
     "Category": "Cooking",
     "Edibility": 10,
     "EdibleIsDrink": false,
-    "Price": 60,
+    "Price": 125,
     "IsColored": false,
     "Recipe": 
     {
         "ResultCount": 2,
         "Ingredients": [
             {
-                "Object": "Green Tea",
+                "Object": "Sugar",
                 "Count": 1
             },
             {
                 "Object": "Cassava",
-                "Count": 1
+                "Count": 2
             }
         ],
         "IsDefault": true
