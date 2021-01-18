@@ -26,3 +26,4 @@ This mod is compatible or integrates with these mods:
 - PPJA Fruits and Veggies (Cassava)
 - Artisan Valley (Tapioca)
 - PPJA More Recipes (Boba Tea)
+- More coming soon...
