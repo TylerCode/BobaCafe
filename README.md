@@ -2,7 +2,7 @@
 
 A boba tea mod for StarDew Valley. Credit to AGrrrlHasNoName for Idea and Art.
 
-2024 Update: This still works in the current 1.5 version of the game. If anything breaks in 1.6 it will be updated. 
+2025 Update: The mod is still working as of the latest 1.6 version of the game as of the 0.6.0 update. 
 
 ## USERS!!!
 See the Nexus Mod page for installation and usage. 
