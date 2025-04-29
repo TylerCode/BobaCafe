@@ -16,12 +16,13 @@ Was originally going to be an SMAPI mod by itself but JsonAssets just works so f
 
 ## Installation
 
-Download BobaCafe.zip, extract it and copy the "BobaCafe" folder into your Stardew Valley/Mods folder. Then in Year 2 you will start getting recipes from Caroline. 
+Download BobaCafe.zip, extract it and copy the "BobaCafe" folder into your Stardew Valley/Mods folder. Then in summer of year 1 you will start getting recipes from Caroline. The seeds are available from day 1 in the spring and summer seasons.
 
 This mod depends on these other mods:
 - ExpandedPreconditionsUtility
 - JsonAssets
 - MailFrameworkMod
+- SMAPI
 - SpaceCore
 
 This mod is compatible or integrates with these mods: 
