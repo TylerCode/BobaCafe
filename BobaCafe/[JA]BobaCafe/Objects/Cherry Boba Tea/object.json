@@ -4,10 +4,9 @@
     "Category": "Cooking",
     "Edibility": 80,
     "EdibleIsDrink": true,
-    "Price": 275,
+    "Price": 325,
     "IsColored": false,
-    "EdibleBuffs":
-    {
+    "EdibleBuffs": {
         "Farming": 2,
         "Fishing": 0,
         "Mining": 0,
@@ -20,8 +19,7 @@
         "Attack": 0,
         "Duration": 180
     },
-    "Recipe": 
-    {
+    "Recipe": {
         "ResultCount": 2,
         "Ingredients": [
             {
@@ -43,34 +41,66 @@
         ],
         "CanPurchase": false
     },
-    "GiftTastes":
-    {
-        "Love": ["Abigail", "Caroline", "Sandy", "Sebastian", "Shane"],
-        "Like": ["Haley", "Alex", "Leah", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Vincent", "Willy", "Wizard"]
+    "GiftTastes": {
+        "Love": [
+            "Abigail",
+            "Caroline",
+            "Sandy",
+            "Sebastian",
+            "Shane"
+        ],
+        "Like": [
+            "Haley",
+            "Alex",
+            "Leah",
+            "Clint",
+            "Demetrius",
+            "Dwarf",
+            "Elliott",
+            "Emily",
+            "Evelyn",
+            "George",
+            "Gus",
+            "Harvey",
+            "Jas",
+            "Jodi",
+            "Kent",
+            "Krobus",
+            "Lewis",
+            "Linus",
+            "Marnie",
+            "Maru",
+            "Pam",
+            "Penny",
+            "Pierre",
+            "Robin",
+            "Sam",
+            "Vincent",
+            "Willy",
+            "Wizard"
+        ]
     },
-    "NameLocalization":
-    {
-        "es": "",
-        "ko": "",
-        "de": "",
-        "fr": "",
-        "hu": "",
-        "ja": "",
-        "pt": "",
-        "ru": "",
-        "zh": ""
+    "NameLocalization": {
+        "es": "Té Boba de Cereza",
+        "ko": "체리 버블티",
+        "de": "Kirsch-Bubble-Tea",
+        "fr": "Thé au Boba à la Cerise",
+        "hu": "Cseresznyés Boba Tea",
+        "ja": "チェリー タピオカティー",
+        "pt": "Chá Boba de Cereja",
+        "ru": "Вишнёвый Боба Чай",
+        "zh": "樱桃珍珠奶茶"
     },
-    "DescriptionLocalization":
-    {
-        "es": "",
-        "ko": "",
-        "de": "",
-        "fr": "",
-        "hu": "",
-        "ja": "",
-        "pt": "",
-        "ru": "",
-        "zh": ""
+    "DescriptionLocalization": {
+        "es": "Boba con un poco de leche y cereza añadida para darle sabor.",
+        "ko": "맛을 위해 우유와 체리가 약간 첨가된 버블티.",
+        "de": "Boba mit etwas Milch und Kirsche für den Geschmack.",
+        "fr": "Boba avec un peu de lait et de cerise ajoutés pour le goût.",
+        "hu": "Boba egy kis tejjel és cseresznyével ízesítve.",
+        "ja": "ミルクとチェリーを少し加えて味わいをプラスしたタピオカティー。",
+        "pt": "Boba com um pouco de leite e cereja adicionados para sabor.",
+        "ru": "Боба с добавлением небольшого количества молока и вишни для вкуса.",
+        "zh": "加入少量牛奶和樱桃增添风味的珍珠奶茶。"
     },
     "ContextTags": [
         "season_summer"

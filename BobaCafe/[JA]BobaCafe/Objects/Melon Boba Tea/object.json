@@ -6,8 +6,7 @@
     "EdibleIsDrink": true,
     "Price": 275,
     "IsColored": false,
-    "EdibleBuffs":
-    {
+    "EdibleBuffs": {
         "Farming": 0,
         "Fishing": 1,
         "Mining": 1,
@@ -20,8 +19,7 @@
         "Attack": 0,
         "Duration": 180
     },
-    "Recipe": 
-    {
+    "Recipe": {
         "ResultCount": 2,
         "Ingredients": [
             {
@@ -43,34 +41,66 @@
         ],
         "CanPurchase": false
     },
-    "GiftTastes":
-    {
-        "Love": ["Abigail", "Caroline", "Sandy", "Sebastian", "Shane"],
-        "Like": ["Haley", "Alex", "Leah", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Vincent", "Willy", "Wizard"]
+    "GiftTastes": {
+        "Love": [
+            "Abigail",
+            "Caroline",
+            "Sandy",
+            "Sebastian",
+            "Shane"
+        ],
+        "Like": [
+            "Haley",
+            "Alex",
+            "Leah",
+            "Clint",
+            "Demetrius",
+            "Dwarf",
+            "Elliott",
+            "Emily",
+            "Evelyn",
+            "George",
+            "Gus",
+            "Harvey",
+            "Jas",
+            "Jodi",
+            "Kent",
+            "Krobus",
+            "Lewis",
+            "Linus",
+            "Marnie",
+            "Maru",
+            "Pam",
+            "Penny",
+            "Pierre",
+            "Robin",
+            "Sam",
+            "Vincent",
+            "Willy",
+            "Wizard"
+        ]
     },
-    "NameLocalization":
-    {
-        "es": "",
-        "ko": "",
-        "de": "",
-        "fr": "",
-        "hu": "",
-        "ja": "",
-        "pt": "",
-        "ru": "",
-        "zh": ""
+    "NameLocalization": {
+        "es": "Té Boba de Melón",
+        "ko": "멜론 버블티",
+        "de": "Melonen-Bubble-Tea",
+        "fr": "Thé au Boba au Melon",
+        "hu": "Dinnyés Boba Tea",
+        "ja": "メロン タピオカティー",
+        "pt": "Chá Boba de Melão",
+        "ru": "Дынный Боба Чай",
+        "zh": "蜜瓜珍珠奶茶"
     },
-    "DescriptionLocalization":
-    {
-        "es": "",
-        "ko": "",
-        "de": "",
-        "fr": "",
-        "hu": "",
-        "ja": "",
-        "pt": "",
-        "ru": "",
-        "zh": ""
+    "DescriptionLocalization": {
+        "es": "Boba con un poco de leche y melón añadido para darle sabor.",
+        "ko": "맛을 위해 우유와 멜론이 약간 첨가된 버블티.",
+        "de": "Boba mit etwas Milch und Melone für den Geschmack.",
+        "fr": "Boba avec un peu de lait et de melon ajoutés pour le goût.",
+        "hu": "Boba egy kis tejjel és dinnyével ízesítve.",
+        "ja": "ミルクとメロンを少し加えて味わいをプラスしたタピオカティー。",
+        "pt": "Boba com um pouco de leite e melão adicionados para sabor.",
+        "ru": "Боба с добавлением небольшого количества молока и дыни для вкуса.",
+        "zh": "加入少量牛奶和蜜瓜增添风味的珍珠奶茶。"
     },
     "ContextTags": [
         "season_summer"

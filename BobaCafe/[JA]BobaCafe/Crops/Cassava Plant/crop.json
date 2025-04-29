@@ -4,15 +4,23 @@
     "SeedName": "Cassava Seeds",
     "SeedDescription": "Plant in spring or summer. Takes 10 days to produce large tubular roots.",
     "Type": "Vegetable",
-    "Seasons": ["spring", "summer"],
+    "Seasons": [
+        "spring",
+        "summer"
+    ],
     "CropType": "Normal",
-    "Phases": [2, 2, 2, 2, 2],
+    "Phases": [
+        2,
+        2,
+        2,
+        2,
+        2
+    ],
     "RegrowthPhase": -1,
     "HarvestWithScythe": false,
     "TrellisCrop": false,
     "Colors": null,
-    "Bonus":
-    {
+    "Bonus": {
         "MinimumPerHarvest": 2,
         "MaximumPerHarvest": 2,
         "MaxIncreasePerFarmLevel": 1,
@@ -20,29 +28,27 @@
     },
     "SeedPurchaseFrom": "Pierre",
     "SeedPurchasePrice": 85,
-    "SeedNameLocalization":
-    {
-        "es": "",
-        "ko": "",
-        "de": "",
-        "fr": "",
-        "hu": "",
-        "ja": "",
-        "pt": "",
-        "ru": "",
-        "zh": ""
+    "SeedNameLocalization": {
+        "es": "Semillas de Yuca",
+        "ko": "카사바 씨앗",
+        "de": "Maniok-Samen",
+        "fr": "Graines de Manioc",
+        "hu": "Manióka Magok",
+        "ja": "キャッサバの種",
+        "pt": "Sementes de Mandioca",
+        "ru": "Семена Маниоки",
+        "zh": "木薯种子"
     },
-    "SeedDescriptionLocalization":
-    {
-        "es": "",
-        "ko": "",
-        "de": "",
-        "fr": "",
-        "hu": "",
-        "ja": "",
-        "pt": "",
-        "ru": "",
-        "zh": ""
+    "SeedDescriptionLocalization": {
+        "es": "Plantar en primavera o verano. Tarda 10 días en producir grandes raíces tubulares.",
+        "ko": "봄이나 여름에 심으세요. 10일 후 큰 관 모양의 뿌리가 생성됩니다.",
+        "de": "Im Frühling oder Sommer pflanzen. Braucht 10 Tage, um große röhrenförmige Wurzeln zu produzieren.",
+        "fr": "Planter au printemps ou en été. Met 10 jours pour produire de grandes racines tubulaires.",
+        "hu": "Tavasszal vagy nyáron ültesse el. 10 nap alatt nagy csöves gyökereket fejleszt.",
+        "ja": "春または夏に植えてください。10日で大きな管状の根を生産します。",
+        "pt": "Plante na primavera ou verão. Leva 10 dias para produzir grandes raízes tubulares.",
+        "ru": "Сажать весной или летом. Требуется 10 дней для образования крупных трубчатых корней.",
+        "zh": "春季或夏季种植。需要10天时间生产大型管状根茎。"
     },
     "DisableWithMod": "ppja.fruitsandveggies"
 }

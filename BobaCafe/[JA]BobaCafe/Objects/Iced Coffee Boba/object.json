@@ -6,8 +6,7 @@
     "EdibleIsDrink": true,
     "Price": 250,
     "IsColored": false,
-    "EdibleBuffs":
-    {
+    "EdibleBuffs": {
         "Farming": 0,
         "Fishing": 0,
         "Mining": 0,
@@ -20,8 +19,7 @@
         "Attack": 0,
         "Duration": 180
     },
-    "Recipe": 
-    {
+    "Recipe": {
         "ResultCount": 2,
         "Ingredients": [
             {
@@ -39,34 +37,66 @@
         ],
         "CanPurchase": false
     },
-    "GiftTastes":
-    {
-        "Love": ["Abigail", "Caroline", "Sandy", "Sebastian", "Shane"],
-        "Like": ["Haley", "Alex", "Leah", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Vincent", "Willy", "Wizard"]
+    "GiftTastes": {
+        "Love": [
+            "Abigail",
+            "Caroline",
+            "Sandy",
+            "Sebastian",
+            "Shane"
+        ],
+        "Like": [
+            "Haley",
+            "Alex",
+            "Leah",
+            "Clint",
+            "Demetrius",
+            "Dwarf",
+            "Elliott",
+            "Emily",
+            "Evelyn",
+            "George",
+            "Gus",
+            "Harvey",
+            "Jas",
+            "Jodi",
+            "Kent",
+            "Krobus",
+            "Lewis",
+            "Linus",
+            "Marnie",
+            "Maru",
+            "Pam",
+            "Penny",
+            "Pierre",
+            "Robin",
+            "Sam",
+            "Vincent",
+            "Willy",
+            "Wizard"
+        ]
     },
-    "NameLocalization":
-    {
-        "es": "",
-        "ko": "",
-        "de": "",
-        "fr": "",
-        "hu": "",
-        "ja": "",
-        "pt": "",
-        "ru": "",
-        "zh": ""
+    "NameLocalization": {
+        "es": "Boba de Café Helado",
+        "ko": "아이스 커피 버블티",
+        "de": "Eiskaffee-Bubble-Tea",
+        "fr": "Boba au Café Glacé",
+        "hu": "Jeges Kávé Boba",
+        "ja": "アイスコーヒー タピオカ",
+        "pt": "Boba de Café Gelado",
+        "ru": "Боба с Холодным Кофе",
+        "zh": "冰咖啡珍珠奶茶"
     },
-    "DescriptionLocalization":
-    {
-        "es": "",
-        "ko": "",
-        "de": "",
-        "fr": "",
-        "hu": "",
-        "ja": "",
-        "pt": "",
-        "ru": "",
-        "zh": ""
+    "DescriptionLocalization": {
+        "es": "Boba hecha con café helado en lugar de té.",
+        "ko": "차 대신 아이스 커피로 만든 버블티.",
+        "de": "Boba aus Eiskaffee statt Tee hergestellt.",
+        "fr": "Boba préparé avec du café glacé au lieu du thé.",
+        "hu": "Tea helyett jeges kávéból készült boba.",
+        "ja": "お茶の代わりにアイスコーヒーで作ったタピオカドリンク。",
+        "pt": "Boba feito com café gelado em vez de chá.",
+        "ru": "Боба, приготовленная из холодного кофе вместо чая.",
+        "zh": "用冰咖啡代替茶制作的珍珠奶茶。"
     },
     "ContextTags": [
         "season_summer"

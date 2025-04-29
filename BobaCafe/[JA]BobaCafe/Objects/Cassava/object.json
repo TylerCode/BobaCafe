@@ -7,35 +7,68 @@
     "Price": 50,
     "IsColored": false,
     "Recipe": null,
-    "GiftTastes":
-    {
-        "Love": ["Caroline", "Pierre", "Dwarf"],
-        "Like": ["Abigail", "Alex", "Leah", "Clint", "Demetrius", "Sebastian", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Robin", "Shane", "Willy", "Wizard", "Sandy"],
-        "Dislike": ["Haley", "Sam", "Jas", "Vincent"]
+    "GiftTastes": {
+        "Love": [
+            "Caroline",
+            "Pierre",
+            "Dwarf"
+        ],
+        "Like": [
+            "Abigail",
+            "Alex",
+            "Leah",
+            "Clint",
+            "Demetrius",
+            "Sebastian",
+            "Elliott",
+            "Emily",
+            "Evelyn",
+            "George",
+            "Gus",
+            "Harvey",
+            "Jodi",
+            "Kent",
+            "Krobus",
+            "Lewis",
+            "Linus",
+            "Marnie",
+            "Maru",
+            "Pam",
+            "Penny",
+            "Robin",
+            "Shane",
+            "Willy",
+            "Wizard",
+            "Sandy"
+        ],
+        "Dislike": [
+            "Haley",
+            "Sam",
+            "Jas",
+            "Vincent"
+        ]
     },
-    "NameLocalization":
-    {
-        "es": "",
-        "ko": "",
-        "de": "",
-        "fr": "",
-        "hu": "",
-        "ja": "",
-        "pt": "",
-        "ru": "",
-        "zh": ""
+    "NameLocalization": {
+        "es": "Yuca",
+        "ko": "카사바",
+        "de": "Maniok",
+        "fr": "Manioc",
+        "hu": "Manióka",
+        "ja": "キャッサバ",
+        "pt": "Mandioca",
+        "ru": "Маниока",
+        "zh": "木薯"
     },
-    "DescriptionLocalization":
-    {
-        "es": "",
-        "ko": "",
-        "de": "",
-        "fr": "",
-        "hu": "",
-        "ja": "",
-        "pt": "",
-        "ru": "",
-        "zh": ""
+    "DescriptionLocalization": {
+        "es": "Una raíz con almidón. Comestible después de cierto procesamiento.",
+        "ko": "전분이 많은 뿌리. 일정한 가공 후 식용 가능.",
+        "de": "Eine stärkehaltige Wurzel. Nach einiger Verarbeitung essbar.",
+        "fr": "Une racine féculente. Comestible après une certaine transformation.",
+        "hu": "Keményítőben gazdag gyökér. Feldolgozás után ehető.",
+        "ja": "でんぷん質の根菜。加工後に食用可能。",
+        "pt": "Uma raiz rica em amido. Comestível após algum processamento.",
+        "ru": "Крахмалистый корень. Съедобен после некоторой обработки.",
+        "zh": "淀粉质根茎。经过处理后可食用。"
     },
     "ContextTags": [
         "season_summer"

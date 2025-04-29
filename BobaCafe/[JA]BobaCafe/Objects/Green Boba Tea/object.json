@@ -2,12 +2,11 @@
     "Name": "Green Boba Tea",
     "Description": "A delicious tea with tapioca pearls.",
     "Category": "Cooking",
-    "Edibility": 56,
+    "Edibility": 70,
     "EdibleIsDrink": true,
     "Price": 250,
     "IsColored": false,
-    "EdibleBuffs":
-    {
+    "EdibleBuffs": {
         "Farming": 0,
         "Fishing": 0,
         "Mining": 0,
@@ -20,8 +19,7 @@
         "Attack": 1,
         "Duration": 180
     },
-    "Recipe": 
-    {
+    "Recipe": {
         "ResultCount": 2,
         "Ingredients": [
             {
@@ -39,34 +37,66 @@
         ],
         "CanPurchase": false
     },
-    "GiftTastes":
-    {
-        "Love": ["Abigail", "Caroline", "Sandy", "Sebastian", "Shane"],
-        "Like": ["Haley", "Alex", "Leah", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Vincent", "Willy", "Wizard"]
+    "GiftTastes": {
+        "Love": [
+            "Abigail",
+            "Caroline",
+            "Sandy",
+            "Sebastian",
+            "Shane"
+        ],
+        "Like": [
+            "Haley",
+            "Alex",
+            "Leah",
+            "Clint",
+            "Demetrius",
+            "Dwarf",
+            "Elliott",
+            "Emily",
+            "Evelyn",
+            "George",
+            "Gus",
+            "Harvey",
+            "Jas",
+            "Jodi",
+            "Kent",
+            "Krobus",
+            "Lewis",
+            "Linus",
+            "Marnie",
+            "Maru",
+            "Pam",
+            "Penny",
+            "Pierre",
+            "Robin",
+            "Sam",
+            "Vincent",
+            "Willy",
+            "Wizard"
+        ]
     },
-    "NameLocalization":
-    {
-        "es": "",
-        "ko": "",
-        "de": "",
-        "fr": "",
-        "hu": "",
-        "ja": "",
-        "pt": "",
-        "ru": "",
-        "zh": ""
+    "NameLocalization": {
+        "es": "Té Boba Verde",
+        "ko": "녹차 버블티",
+        "de": "Grüner Bubble-Tea",
+        "fr": "Thé Vert au Boba",
+        "hu": "Zöld Boba Tea",
+        "ja": "グリーン タピオカティー",
+        "pt": "Chá Verde Boba",
+        "ru": "Зеленый Боба Чай",
+        "zh": "绿茶珍珠奶茶"
     },
-    "DescriptionLocalization":
-    {
-        "es": "",
-        "ko": "",
-        "de": "",
-        "fr": "",
-        "hu": "",
-        "ja": "",
-        "pt": "",
-        "ru": "",
-        "zh": ""
+    "DescriptionLocalization": {
+        "es": "Un delicioso té con perlas de tapioca.",
+        "ko": "타피오카 펄이 들어간 맛있는 차.",
+        "de": "Ein köstlicher Tee mit Tapioka-Perlen.",
+        "fr": "Un délicieux thé avec des perles de tapioca.",
+        "hu": "Finom tea tápióka gyöngyökkel.",
+        "ja": "タピオカパールの入った美味しいお茶。",
+        "pt": "Um delicioso chá com pérolas de tapioca.",
+        "ru": "Вкусный чай с шариками тапиоки.",
+        "zh": "美味的珍珠奶茶。"
     },
     "ContextTags": [
         "season_summer"

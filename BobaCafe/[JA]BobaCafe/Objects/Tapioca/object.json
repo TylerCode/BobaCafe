@@ -6,8 +6,7 @@
     "EdibleIsDrink": false,
     "Price": 125,
     "IsColored": false,
-    "Recipe": 
-    {
+    "Recipe": {
         "ResultCount": 2,
         "Ingredients": [
             {
@@ -21,33 +20,64 @@
         ],
         "IsDefault": true
     },
-    "GiftTastes":
-    {
-        "Like": ["Abigail", "Caroline", "Sandy", "Sebastian", "Shane", "Haley", "Alex", "Leah", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Vincent", "Willy", "Wizard"]
+    "GiftTastes": {
+        "Like": [
+            "Abigail",
+            "Caroline",
+            "Sandy",
+            "Sebastian",
+            "Shane",
+            "Haley",
+            "Alex",
+            "Leah",
+            "Clint",
+            "Demetrius",
+            "Dwarf",
+            "Elliott",
+            "Emily",
+            "Evelyn",
+            "George",
+            "Gus",
+            "Harvey",
+            "Jas",
+            "Jodi",
+            "Kent",
+            "Krobus",
+            "Lewis",
+            "Linus",
+            "Marnie",
+            "Maru",
+            "Pam",
+            "Penny",
+            "Pierre",
+            "Robin",
+            "Sam",
+            "Vincent",
+            "Willy",
+            "Wizard"
+        ]
     },
-    "NameLocalization":
-    {
-        "es": "",
-        "ko": "",
-        "de": "",
-        "fr": "",
-        "hu": "",
-        "ja": "",
-        "pt": "",
-        "ru": "",
-        "zh": ""
+    "NameLocalization": {
+        "es": "Tapioca",
+        "ko": "타피오카",
+        "de": "Tapioka",
+        "fr": "Tapioca",
+        "hu": "Tápióka",
+        "ja": "タピオカ",
+        "pt": "Tapioca",
+        "ru": "Тапиока",
+        "zh": "木薯粉"
     },
-    "DescriptionLocalization":
-    {
-        "es": "",
-        "ko": "",
-        "de": "",
-        "fr": "",
-        "hu": "",
-        "ja": "",
-        "pt": "",
-        "ru": "",
-        "zh": ""
+    "DescriptionLocalization": {
+        "es": "Una sustancia almidonada y granulada hecha de yuca. Útil en la preparación de platos y bebidas.",
+        "ko": "카사바로 만든 전분질의 알갱이 물질. 요리와 음료에 유용합니다.",
+        "de": "Eine stärkehaltige, körnige Substanz aus Maniok. Nützlich beim Kochen von Gerichten und Getränken.",
+        "fr": "Une substance amidonnée et granuleuse faite à partir de manioc. Utile dans la préparation de plats et de boissons.",
+        "hu": "Keményítőtartalmú, szemcsés anyag, amelyet manióka növényből készítenek. Hasznos ételek és italok készítéséhez.",
+        "ja": "キャッサバから作られるでんぷん質の粒状の物質。料理や飲料の調理に役立ちます。",
+        "pt": "Uma substância amilácea e granulada feita de mandioca. Útil no preparo de pratos e bebidas.",
+        "ru": "Крахмалистое, зернистое вещество, изготовленное из маниоки. Полезно при приготовлении блюд и напитков.",
+        "zh": "由木薯制成的淀粉颗粒状物质。适用于烹饪菜肴和饮料。"
     },
     "ContextTags": [
         "season_summer"
