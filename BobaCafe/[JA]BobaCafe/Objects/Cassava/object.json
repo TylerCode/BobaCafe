@@ -4,7 +4,7 @@
     "Category": "Vegetable",
     "Edibility": -20,
     "EdibleIsDrink": false,
-    "Price": 50,
+    "Price": 30,
     "IsColored": false,
     "Recipe": null,
     "GiftTastes": {
