@@ -1,13 +1,11 @@
-﻿{
+{
   "Name": "[JA]BobaCafe",
   "Author": "TylerCode + AGrrrlHasNoName",
-  "Version": "0.6.0",
+  "Version": "0.6.1",
   "Description": "JsonAssets for BobaCafe.",
   "UniqueID": "TylerCode.BobaCafeAssets",
   "MinimumApiVersion": "3.0.0",
-  "UpdateKeys": [
-    "Nexus:7599"
-  ],
+  "UpdateKeys": ["Nexus:7599"],
   "ContentPackFor": {
     "UniqueID": "spacechase0.JsonAssets"
   }
