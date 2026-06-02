@@ -1,6 +1,6 @@
 # BobaCafe
 
-A boba tea mod for StarDew Valley. Credit to AGrrrlHasNoName for Idea and Art.
+A boba tea mod for Stardew Valley. Credit to AGrrrlHasNoName for Idea and Art.
 
 ## USERS!!!
 See the Nexus Mod page for installation and usage. 
