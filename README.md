@@ -8,9 +8,9 @@ https://www.nexusmods.com/stardewvalley/mods/7599
 
 ## Devs and Potential Contributors!
 
-It's open source but there are much better projects to contribute to and learn from. I can promise you that. Take a look at the Project Populate for a good example. I am accepting pull requests for translations and compatibility fixes though so feel free to give it a go.
+It's open source but there are much better projects to contribute to and learn from, I can promise you that. Take a look at the Project Populate for a good example. I am accepting pull requests for translations and compatibility fixes though, so feel free to give it a go.
 
-Was originally going to be an SMAPI mod by itself but JsonAssets just works so freaking well. So that's where it stands until it NEEDS something heavier.
+Was originally going to be an SMAPI mod by itself but JsonAssets just works so freaking well. I would say after all these years that going to SMAPI is probably out of scope. 
 
 ## Installation
 
